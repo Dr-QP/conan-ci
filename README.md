@@ -1,2 +1,3 @@
 # conan-ci
-CI scripts for custom conan/package_manger repos
+
+GitHub Actions workflow for Conan packages
